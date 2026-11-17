@@ -89,16 +89,18 @@ My projects span photography websites, learning platforms, and AI-assisted busin
 ## My toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,python,fastapi,postgres,mongodb,prisma,git,cpp&amp;perline=7&amp;theme=dark" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express, Python, FastAPI, PostgreSQL, MongoDB, Prisma, Git, and C++" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,cpp,python,fastapi,java,mysql,mongodb,aws,docker,git,github,postman,githubactions&amp;perline=6&amp;theme=dark" alt="React, Next.js, JavaScript, TypeScript, Node.js, Express, C++, Python, FastAPI, Java, MySQL, MongoDB, AWS, Docker, Git, GitHub, Postman, and GitHub Actions" />
 </p>
 
 | Layer | What I build with |
 | :--- | :--- |
-| **Interfaces** | React · Next.js · TypeScript · Tailwind CSS |
-| **APIs & services** | Node.js · Express · Python · FastAPI |
-| **Data & content** | PostgreSQL · MongoDB · Prisma · Cloudinary |
-| **AI exploration** | Ollama · local LLMs · structured outputs · agent workflows |
-| **Foundations** | Git · C++ · data structures & algorithms |
+| **Interfaces** | React.js · Next.js · JavaScript · TypeScript |
+| **APIs & services** | Node.js · Express.js · Python · FastAPI · Java · REST APIs |
+| **Data & cloud** | MySQL · MongoDB · AWS (ECS Fargate, S3, CloudFront, ECR, Athena) |
+| **Architecture & delivery** | Microservices · distributed systems · Docker · CI/CD |
+| **AI-assisted development** | GitHub Copilot · Claude · Cursor · OpenCode · multi-step agent orchestration |
+| **Developer tools** | Git · GitHub · Postman · C++ |
+| **Accessibility** | Web accessibility · WCAG · ARIA · ADA compliance |
 
 <details>
   <summary><strong>A little more of the journey</strong></summary>
