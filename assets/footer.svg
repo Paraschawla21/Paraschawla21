@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Always curious. Always building. — Paras Chawla</title>
+  <defs><linearGradient id="fade"><stop stop-color="#79E7CB" stop-opacity="0"/><stop offset=".5" stop-color="#79E7CB" stop-opacity=".6"/><stop offset="1" stop-color="#AFA0FF" stop-opacity="0"/></linearGradient></defs>
+  <path d="M80 12H1120" stroke="url(#fade)"/>
+  <text x="600" y="55" text-anchor="middle" fill="#8BA0B9" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="4">ALWAYS CURIOUS. ALWAYS BUILDING.</text>
+  <text x="600" y="82" text-anchor="middle" fill="#729A99" font-family="monospace" font-size="11">&lt; / &gt;  Paras Chawla</text>
+</svg>

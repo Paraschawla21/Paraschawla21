@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">From experience to useful product</title>
+  <desc id="desc">Three connected stages: design the experience, connect APIs and data, and ship a useful product. Small lights travel along the connectors.</desc>
+  <style>@media (prefers-reduced-motion: reduce) { .pulse { display: none; } }</style>
+  <rect x="1" y="1" width="1198" height="158" rx="16" fill="#101725" stroke="#29344B"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="201" y="46" fill="#6F829F" font-size="10" letter-spacing="3">01 / DESIGN</text>
+    <text x="201" y="80" fill="#79E7CB" font-size="21" font-weight="700">The experience</text>
+    <text x="201" y="109" fill="#A7B6CD" font-size="13">Interfaces · interaction · clarity</text>
+    <text x="600" y="46" fill="#6F829F" font-size="10" letter-spacing="3">02 / CONNECT</text>
+    <text x="600" y="80" fill="#AFA0FF" font-size="21" font-weight="700">The system</text>
+    <text x="600" y="109" fill="#A7B6CD" font-size="13">APIs · data · intelligence</text>
+    <text x="999" y="46" fill="#6F829F" font-size="10" letter-spacing="3">03 / SHIP</text>
+    <text x="999" y="80" fill="#8EC5FF" font-size="21" font-weight="700">Something useful</text>
+    <text x="999" y="109" fill="#A7B6CD" font-size="13">Products · workflows · outcomes</text>
+  </g>
+  <path d="M350 78H438M428 72L438 78L428 84M754 78H842M832 72L842 78L832 84" stroke="#465773" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle class="pulse" r="3" fill="#79E7CB"><animateMotion dur="3s" repeatCount="indefinite" path="M350 78H438"/></circle>
+  <circle class="pulse" r="3" fill="#AFA0FF"><animateMotion dur="3s" begin="1.5s" repeatCount="indefinite" path="M754 78H842"/></circle>
+</svg>
