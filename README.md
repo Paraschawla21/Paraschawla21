@@ -26,7 +26,6 @@ Hey, I’m **Paras** 👋 — a **Full Stack Software Engineer at Bazaarvoice**,
 
 My projects span photography websites, learning platforms, and AI-assisted business workflows. I enjoy working across the stack: bringing interfaces to life, connecting APIs and data, and turning an idea into something people can use.
 
-- **Building:** an AI-assisted business registration guide for first-time entrepreneurs in India.
 - **Crafting:** full-stack web experiences with React, Next.js, and TypeScript.
 - **Exploring:** local LLMs, structured outputs, and tool-connected AI workflows.
 - **Practicing:** data structures and algorithms in C++.
@@ -42,9 +41,9 @@ My projects span photography websites, learning platforms, and AI-assisted busin
 <table>
   <tr>
     <td width="50%" valign="top">
-      <sub>01 / AI-ASSISTED WORKFLOWS · IN DEVELOPMENT</sub>
+      <sub>01 / AI-ASSISTED WORKFLOWS</sub>
       <h3><a href="https://github.com/Paraschawla21/government-business-registration-assistant">Business Registration Assistant ↗</a></h3>
-      Helping first-time entrepreneurs in India navigate business registrations through structured rules, official source links, and actionable checklists. Exploring local LLMs for constrained summaries and next steps.
+      An AI-assisted project for helping first-time entrepreneurs in India navigate business registrations through structured rules, official source links, and actionable checklists, with local LLMs for constrained summaries and next steps.
       <br /><br />
       <sub>Next.js · TypeScript · Python · FastAPI · Ollama</sub>
       <br /><br />
@@ -58,26 +57,6 @@ My projects span photography websites, learning platforms, and AI-assisted busin
       <sub>Next.js · TypeScript · PostgreSQL · Prisma · Cloudinary</sub>
       <br /><br />
       <a href="https://storiesbyakshat.vercel.app">Visit the website →</a> · <a href="https://github.com/Paraschawla21/storiesbyakshat">Source</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>03 / FULL-STACK LEARNING · TEAM PROJECT</sub>
-      <h3><a href="https://github.com/Paraschawla21/LMS_Odyssey">Odyssey LMS ↗</a></h3>
-      A learning management system for students and teachers, with courses, sections, and video lectures. Built with Team V21 during the Ethnus Codemithra internship course.
-      <br /><br />
-      <sub>MongoDB · Express · React · Node.js</sub>
-      <br /><br />
-      <a href="https://github.com/Paraschawla21/LMS_Odyssey">Explore the code →</a>
-    </td>
-    <td width="50%" valign="top">
-      <sub>04 / BLOCKCHAIN EXPLORATION</sub>
-      <h3><a href="https://github.com/Paraschawla21/KYC-VERIFICATION-USING-BLOCKCHAIN">KYC on Blockchain ↗</a></h3>
-      An exploration of KYC verification workflows using React and an Ethereum development network. Built and tested locally with Ganache, Truffle, and web3.js.
-      <br /><br />
-      <sub>React · Ethereum · Ganache · Truffle · web3.js</sub>
-      <br /><br />
-      <a href="https://github.com/Paraschawla21/KYC-VERIFICATION-USING-BLOCKCHAIN">Explore the code →</a>
     </td>
   </tr>
 </table>
@@ -108,7 +87,6 @@ My projects span photography websites, learning platforms, and AI-assisted busin
 - **Creative work:** [Stories by Akshat](https://storiesbyakshat.vercel.app).
 - **My corner of the web:** [React portfolio](https://portfolio-paraschawla21.vercel.app).
 - **Problem-solving practice:** [LeetCode & GFG](https://github.com/Paraschawla21/leetcode_gfg) · [GFG solutions](https://github.com/Paraschawla21/gfg_codes).
-- **Earlier experiments:** [School ERP](https://github.com/Paraschawla21/school_erp) · [COVID dashboard](https://github.com/Paraschawla21/covid_dashboard).
 
 </details>
 
